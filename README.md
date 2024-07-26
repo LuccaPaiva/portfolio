@@ -1,7 +1,8 @@
 # Portfolio
 
-Hello,
-My name is Lucca Paiva, i'm currently a Computer Engeneering student at UNICAMP in Brazil. This is my repo to showcase a few of my projects.
+Hello,  
+My name is Lucca Paiva, i'm currently a Computer Engeneering student at UNICAMP in Brazil.  
+This is my repo to showcase a few of my projects.
 Here are they:
 
 1. [letterboxd](https://github.com/LuccaPaiva/portfolio/tree/main/letterboxd)
